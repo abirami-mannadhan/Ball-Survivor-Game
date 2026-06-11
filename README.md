@@ -1,2 +1,19 @@
-# Ball-Survivor-Game
-Ball Survivor is a Python-based arcade survival game where players evade enemy balls, collect rewards, and progress through increasingly difficult levels while enjoying smooth animations and visual effects.
+# Ball Survivor 🎮
+
+A fast-paced survival arcade game built with Python and Pygame featuring enemy AI, level progression, coin collection, particle effects, and persistent game saves.
+
+## Features
+
+- Homing enemy AI
+- Coin collection system
+- Multiple difficulty levels
+- Animated menu
+- Save & Load progress
+- Particle effects
+- Level unlocking system
+
+## Installation
+
+```bash
+pip install pygame
+python main.py
